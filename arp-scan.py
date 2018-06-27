@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def missing_library(string):
-    raise Exception(("\nMissing %s Library\n" % (string))
+    raise Exception("\nMissing %s Library\n" % (string))
 
 
 try:
